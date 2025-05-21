@@ -1,9 +1,9 @@
 # Ex No: 07 - Design and Simulation of a 4-Bit Adder Using Verilog and Cadence nclaunch
+## MITHUNRAJEEV V
+## REG NO:212223060159
 
 ## Aim
 The aim is to design and simulate a **4-bit Adder** using **Verilog HDL** and verify its functionality using **Cadence nclaunch** for simulation.
-
----
 
 ## Tools Required
 ### Cadence EDA Suite
@@ -12,7 +12,6 @@ The aim is to design and simulate a **4-bit Adder** using **Verilog HDL** and ve
 ### Hardware Requirements
 - Minimum **4GB RAM** and a **multi-core processor**
 
----
 
 ## Procedure
 
@@ -97,14 +96,16 @@ endmodule
 ![image](https://github.com/user-attachments/assets/567af4cf-875d-448b-b616-40e450d5bbde)
 
 
-## Simulation Results
-### Simulation Waveforms
-![image](https://github.com/user-attachments/assets/b9906814-eb8c-466a-98e1-30cc97ff2069)
+## Simulation Waveforms
+![Screenshot 2025-05-15 162722](https://github.com/user-attachments/assets/80a79627-fc90-44b6-af56-703224850ebe)
+
 
 
 ## Results
 Successfully designed the 1-bit Full Adder and 4-bit Adder using Verilog HDL.
 Simulated the design using Cadence nclaunch and verified the output.
 Observed correct addition functionality for all test cases.
+
+
 
 
